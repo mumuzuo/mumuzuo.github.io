@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+**沐沐左2021年的心愿清单**
 
-You can use the [editor on GitHub](https://github.com/zuo123/muzuo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我之前制定了很多计划，但是基本都没有完成，很痛恨自己的这种行为，现在在尝试改变这种处境。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  减重
 
-### Markdown
+### 20210321
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](vx_images/5144920218788.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 学习
 
-- Bulleted
-- List
+### 1、四大组件，Activity
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zuo123/muzuo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
